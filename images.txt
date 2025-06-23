@@ -1,1 +1,1 @@
-cloudflare/cloudflared:latest
+ollama/ollama:latest
