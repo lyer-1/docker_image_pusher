@@ -1,1 +1,1 @@
-openmmlab/lmdeploy:latest
+ghcr.io/open-webui/open-webui:git-0399a69-cuda
