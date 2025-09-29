@@ -1,4 +1,4 @@
 #containrrr/watchtower:latest
 #infiniflow/ragflow:latest-full
-ollama/ollam
+ollama/ollam:latest
 #ghcr.io/open-webui/open-webui
