@@ -2,4 +2,5 @@
 #infiniflow/ragflow:latest-full
 #ollama/ollama:latest
 #ghcr.io/open-webui/open-webui
-containrrr/watchtower
+#containrrr/watchtower
+n8nio/n8n
