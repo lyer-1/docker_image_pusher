@@ -4,3 +4,4 @@
 ghcr.io/open-webui/open-webui:cuda
 #n8nio/n8n
 #containrrr/watchtower:latest-dev
+vllm/vllm-openai:latest
