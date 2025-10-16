@@ -1,7 +1,8 @@
 #containrrr/watchtower:latest
 #infiniflow/ragflow:latest-full
 #ollama/ollama:0.12.3
-ghcr.io/open-webui/open-webui:cuda
+#ghcr.io/open-webui/open-webui:cuda
 #n8nio/n8n
 #containrrr/watchtower:latest-dev
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
+ghcr.io/open-webui/open-webui:0.6-ollama
