@@ -5,4 +5,6 @@
 #n8nio/n8n
 #containrrr/watchtower:latest-dev
 #vllm/vllm-openai:latest
-ghcr.io/open-webui/open-webui:0.6-ollama
+#ghcr.io/open-webui/open-webui:0.6-ollama
+cym1102/nginxwebui
+deepseek-ocr-webui:latest
