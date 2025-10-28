@@ -6,5 +6,6 @@
 #containrrr/watchtower:latest-dev
 #vllm/vllm-openai:latest
 #ghcr.io/open-webui/open-webui:0.6-ollama
-cym1102/nginxwebui:latest
+#cym1102/nginxwebui:latest
 #deepseek-ocr-webui:latest
+ghcr.io/ggml-org/llama.cpp:full
