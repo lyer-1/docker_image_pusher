@@ -9,4 +9,5 @@
 #cym1102/nginxwebui:latest
 #deepseek-ocr-webui:latest
 #ghcr.io/ggml-org/llama.cpp:full
-ghcr.io/ggml-org/llama.cpp:full-intel
+#ghcr.io/ggml-org/llama.cpp:full-intel
+linkease/kspeeder:latest
