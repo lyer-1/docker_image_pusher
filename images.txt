@@ -1,6 +1,6 @@
 #containrrr/watchtower:latest
 #infiniflow/ragflow:latest-full
-#ollama/ollama:0.12.3
+ollama/ollama:latest
 #ghcr.io/open-webui/open-webui:cuda
 #n8nio/n8n
 #containrrr/watchtower:latest-dev
@@ -10,4 +10,4 @@
 #deepseek-ocr-webui:latest
 #ghcr.io/ggml-org/llama.cpp:full
 #ghcr.io/ggml-org/llama.cpp:full-intel
-linkease/kspeeder:latest
+#linkease/kspeeder:latest
