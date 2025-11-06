@@ -1,7 +1,7 @@
 #containrrr/watchtower:latest
 #infiniflow/ragflow:latest-full
-#ollama/ollama:latest
-ghcr.io/open-webui/open-webui:v0.3.15-cuda
+ollama/ollama:0.12.9
+#ghcr.io/open-webui/open-webui:v0.3.15-cuda
 #n8nio/n8n
 #containrrr/watchtower:latest-dev
 #vllm/vllm-openai:latest
@@ -11,3 +11,4 @@ ghcr.io/open-webui/open-webui:v0.3.15-cuda
 #ghcr.io/ggml-org/llama.cpp:full
 #ghcr.io/ggml-org/llama.cpp:full-intel
 #linkease/kspeeder:latest
+openvino/ubuntu22_runtime:latest
