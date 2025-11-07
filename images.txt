@@ -5,10 +5,10 @@
 #n8nio/n8n
 #containrrr/watchtower:latest-dev
 #vllm/vllm-openai:latest
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
 #cym1102/nginxwebui:latest
 #deepseek-ocr-webui:latest
 #ghcr.io/ggml-org/llama.cpp:full
 #ghcr.io/ggml-org/llama.cpp:full-intel
 #linkease/kspeeder:latest
-#openvino/ubuntu22_runtime:latest
+openvino/ubuntu20_runtime:2025.2.0
