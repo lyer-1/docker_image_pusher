@@ -11,4 +11,5 @@
 #ghcr.io/ggml-org/llama.cpp:full
 #ghcr.io/ggml-org/llama.cpp:full-intel
 #linkease/kspeeder:latest
-openvino/ubuntu20_runtime:2025.2.0
+#openvino/ubuntu20_runtime:2025.2.0
+paddlepaddle/paddle:3.2.2-gpu-cuda13.0-cudnn9.13
