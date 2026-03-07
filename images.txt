@@ -1,6 +1,6 @@
 #containrrr/watchtower:latest
 #infiniflow/ragflow:latest
-#ollama/ollama:0.17.5
+ollama/ollama:0.17.6
 #dyrnq/open-webui:latest
 #n8nio/n8n
 #containrrr/watchtower:latest-dev
@@ -15,5 +15,5 @@
 #paddlepaddle/paddle:3.3.0-gpu-cuda13.0-cudnn9.13
 #nvidia/cuda:13.1.1-base-ubuntu24.04
 #alpine/openclaw:latest
-lmsysorg/sglang:dev
-vllm/vllm-openai:nightly
+#lmsysorg/sglang:dev
+#vllm/vllm-openai:nightly
