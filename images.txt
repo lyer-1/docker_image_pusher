@@ -1,6 +1,6 @@
 #containrrr/watchtower:latest
 #infiniflow/ragflow:latest
-ollama/ollama:0.17.6
+#ollama/ollama:0.17.6
 #dyrnq/open-webui:latest
 #n8nio/n8n
 #containrrr/watchtower:latest-dev
@@ -17,3 +17,4 @@ ollama/ollama:0.17.6
 #alpine/openclaw:latest
 #lmsysorg/sglang:dev
 #vllm/vllm-openai:nightly
+dr34m/openclaw:latest
