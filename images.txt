@@ -17,4 +17,5 @@
 #alpine/openclaw:latest
 #lmsysorg/sglang:dev
 #vllm/vllm-openai:nightly
-dr34m/openclaw:latest
+#dr34m/openclaw:latest
+intel/vllm:0.17.0-xpu
